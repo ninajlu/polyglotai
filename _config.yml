@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Collect Emojis!
     description                           : Collect all 3.3K emojis and add them to your backpack!
-    fontawesome_icon_name                 : backpack
+    fontawesome_icon_name                 : icons
 
 
 # Theme Settings
