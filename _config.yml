@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Polyglot AI                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Sharpen your language skills by chatting with a language bot! Build on OpenAI's GPT-3, Polyglot AI enables you to chat with a bot partner in Spanish, Chinese, or German.
+app_description                           : Sharpen your language skills by chatting with a language bot! Build on OpenAI's GPT-3, Polyglot AI enables you to chat with a bot partner in Spanish, Chinese, or English.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : robot
     
   - title                                 : New languages coming soon!
-    description                           : We support Spanish, English, and Chinese today
+    description                           : We support Spanish, English, and Chinese today with more to come!
     fontawesome_icon_name                 : language
 
   - title                                 : Or find a real language partner!
