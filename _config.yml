@@ -1,8 +1,8 @@
 #page title
-page_title                                : You Deserve a Medal                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Polyglot AI                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1561992845                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : You Deserve a Medal                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Polyglot AI                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : You deserve a medal! Need a pick-me-up? Watch your medal count go up while you get complimented by Mr. Puppy and collect all 3.3K emojis!
+app_description                           : Sharpen your language skills by chatting with a language bot! Build on OpenAI's GPT-3, Polyglot AI enables you to chat with a bot partner in Spanish, Chinese, or German.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Get Medals!
-    description                           : You deserve a medal!
-    fontawesome_icon_name                 : medal
+  - title                                 : Chat with a language bot
+    description                           : Find a bot friend to practice your language skills with!
+    fontawesome_icon_name                 : robot
     
-  - title                                 : Get Compliments!
-    description                           : Mr. Puppy will give you compliments when you need a pick-me-up!
-    fontawesome_icon_name                 : dog
+  - title                                 : New languages coming soon!
+    description                           : We support Spanish, English, and Chinese today
+    fontawesome_icon_name                 : language
 
-  - title                                 : Collect Emojis!
-    description                           : Collect all 3.3K emojis and add them to your backpack!
-    fontawesome_icon_name                 : icons
+  - title                                 : Or find a real language partner!
+    description                           : Find folks based on interest and language!
+    fontawesome_icon_name                 : comment-dots
 
 
 # Theme Settings
