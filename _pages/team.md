@@ -6,6 +6,7 @@ include_in_header: true
 
 # **Team**
 ![nina-lu](/assets/headshot.jpg){:class="img-responsive"}
+  
 An engineer by training, Nina is passionate about applying artificial intelligence and machine learning in the education space to reduce barriers to access, make learning more accessible and affordable, and reduce inequities in education outcomes. Nina has been coding since she was in middle school and graduated summa cum laude from the University of Pennsylvania’s Jerome Fisher Program in Management & Technology with degrees in computer science and finance. While in school, Nina was an organizer of PennApps Hackathon, the largest collegiate hackathon in the country, and founder of the PennApps Accelerator. Nina is also a 2-time student scholarship recipient to Apple’s Worldwide Developer Conference (WWDC). After graduation, Nina was a tech private equity investor at TPG Capital and growth stage VC investor at Kleiner Perkins. Most recently, Nina was a senior product manager at a startup in a highly regulated space that was acquired by Amazon. Nina is currently getting her MBA with a concentration in Social Impact at the Stanford GSB.
 Advisors include edtech industry veterans and at the Department of Education.
 
